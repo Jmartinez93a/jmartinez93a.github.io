@@ -4,10 +4,11 @@ color: green
 ---
 
 {% include head.html %}
-{% include footer.html %}
 
 <h1>{{ site.title }}</h1>
 
 <h2>{{ page.title}} </h2>
 
 <p>My favorite color is {{page.color}}. My e-mail address is {{site.email}}. A little bit about me: {{site.description}}</p>
+
+{% include footer.html %}
