@@ -1,0 +1,10 @@
+# Site settings
+title: Jose's Land 
+email: jmartinez2@albany.edu
+description: Jose is a front-end developer from New York.
+url: http://jmartinez93a.github.io/
+github_username: jmartinez93a
+
+# Build settings
+markdown: kramdown
+permalink: pretty
