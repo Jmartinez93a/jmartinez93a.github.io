@@ -21,11 +21,9 @@
 ![Image of ca gift](http://i.imgur.com/v1gUYem.gif) 
  
 '''css
-
 #header h1 a { 
 	display: block; 
 	width: 300px; 
 	height: 80px; 
 }
-
 '''
