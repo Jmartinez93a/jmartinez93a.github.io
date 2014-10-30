@@ -6,4 +6,4 @@ image:http://www.eonline.com/eol_images/Entire_Site/2013825/rs_560x415-130925143
 
 I had a sandwhich
 
-{{ page.image }}
+{{ post.image }}
