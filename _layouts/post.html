@@ -1,9 +1,9 @@
 {% include head.html %}
-{% if page.image%}<img src="{{page.image}}" alt="">{% else %} Nope, no image {% end if %}
-<h1>Blog post: {{ page.title }} </h1>
 
 <div class="main-ciontent">
 	<div class="container">
+{% if page.image%}<img src="{{page.image}}" alt="">{% else %} Nope, no image {% end if %}
+<h1>Blog post: {{ page.title }} </h1>
 		{{ content }}
 	</div>
 </div>
